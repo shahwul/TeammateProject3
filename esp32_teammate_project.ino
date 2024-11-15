@@ -9,8 +9,8 @@ float angle = 0;                  // Sudut estimasi
 float bias = 0;                   // Bias giroskop
 float P[2][2] = {0, 0, 0, 0};     // Matriks error covariance
 float Q_angle = 0.5;             // Variansi proses untuk sudut
-float Q_bias = 0.001;               // Variansi proses untuk bias
-float R_measure = 0.00098;           // Variansi pengukuran
+float Q_bias = 0.00065;               // Variansi proses untuk bias
+float R_measure = 0.000098;           // Variansi pengukuran
 
 int ROLL_ALERT_THRESHOLD = 40;    // Batas untuk roll yang dianggap alert
 
@@ -97,23 +97,22 @@ void loop() {
     float yaw = yaw + (gz / 131.0) * deltaTime;    // Perhitungan yaw dengan integrasi gyroscope (tanpa Kalman)
 
     // output data Serial Monitor
-    String smonitor = "Roll: " + String(roll) + "   Pitch: " + String(pitch) + "   Yaw: " + String(yaw);
-    // Serial.print("Roll: ");
-    // Serial.print(roll);
-    // Serial.print("   Pitch: ");
-    // Serial.print(pitch);
-    // Serial.print("   Yaw: ");
-    // Serial.println(yaw);
+    // String smonitor = "Roll: " + String(roll) + "   Pitch: " + String(pitch) + "   Yaw: " + String(yaw);
+
+    //Serial Plotter
+    Serial.print(roll);
+    Serial.print("\t");
+    Serial.println(pitch);
 
     // Gabungkan data roll, pitch dan alert menjadi satu string untuk dikirim ke telemetri
     String telemetryData = String(roll) + "," + String(pitch);
 
     // Jika Roll melebihi batas, tambahkan pesan alert ke data telemetry
-    if (abs(roll) > ROLL_ALERT_THRESHOLD) {
-        telemetryData += ",ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
-        smonitor += "    ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
-        ROLL_ALERT_THRESHOLD += 10;  // Meningkatkan ambang batas setelah alert
-    }
+    // if (abs(roll) > ROLL_ALERT_THRESHOLD) {
+    //     telemetryData += ",ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
+    //     smonitor += "    ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
+    //     ROLL_ALERT_THRESHOLD += 10;  // Meningkatkan ambang batas setelah alert
+    // }
 
     if (abs(roll) < 40) {
         ROLL_ALERT_THRESHOLD = 40;  // Mengatur ulang ambang batas ke 40 jika roll normal
@@ -122,7 +121,7 @@ void loop() {
     // Kirim data Roll, Pitch, dan Alert ke modul telemetri dalam satu baris
     Serial2.println(telemetryData);  // Mengirim data ke telemetri dalam format CSV atau dengan alert jika perlu
 
-    Serial.println(smonitor);
+    // Serial.println(smonitor);
 
     delay(20);  // Jeda sebelum pembacaan berikutnya untuk pengiriman data real-time
 }

@@ -105,23 +105,27 @@ void loop() {
     Serial.println(pitch);
 
     // Gabungkan data roll, pitch dan alert menjadi satu string untuk dikirim ke telemetri
-    String telemetryData = String(roll) + "," + String(pitch);
+    String telemetryData = "Roll: " + String(roll) + ", Pitch: " + String(pitch) + ", Alert: " + String(ROLL_ALERT_THRESHOLD);
+    // String telemetryData = String(roll) + ", " + String(pitch) + ", " + String(ROLL_ALERT_THRESHOLD);
 
     // Jika Roll melebihi batas, tambahkan pesan alert ke data telemetry
     if (abs(roll) > ROLL_ALERT_THRESHOLD) {
-        telemetryData += ",ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
-        smonitor += "    ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
-        ROLL_ALERT_THRESHOLD += 10;  // Meningkatkan ambang batas setelah alert
+        telemetryData += ", ALERT: Roll melebihi " + String(ROLL_ALERT_THRESHOLD) + " derajat!";
     }
 
-    if (abs(roll) < 40) {
-        ROLL_ALERT_THRESHOLD = 40;  // Mengatur ulang ambang batas ke 40 jika roll normal
+    if (Serial2.available()) {
+        char command = Serial2.read();
+        if (command == 'o' || command == 'p') {
+            if (command == 'p') {
+                ROLL_ALERT_THRESHOLD += 5;
+            } else if (command == 'o') {
+                ROLL_ALERT_THRESHOLD -= 5;
+            }
+        }
     }
 
     // Kirim data Roll, Pitch, dan Alert ke modul telemetri dalam satu baris
     Serial2.println(telemetryData);  // Mengirim data ke telemetri dalam format CSV atau dengan alert jika perlu
 
-    // Serial.println(smonitor);
-
-    delay(20);  // Jeda sebelum pembacaan berikutnya untuk pengiriman data real-time
+    delay(100);  // Jeda sebelum pembacaan berikutnya untuk pengiriman data real-time
 }

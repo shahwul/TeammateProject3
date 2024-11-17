@@ -1,0 +1,765 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.11.17 11:40:34 =~=~=~=~=~=~=~=~=~=~=~=
+Roll: -4.41, Pitch: 0.03, Alert: 40
+Roll: -4.40, Pitch: -3.92, Alert: 40
+Roll: -3.98, Pitch: -2.24, Alert: 40
+Roll: -3.44, Pitch: -1.41, Alert: 40
+Roll: -1.46, Pitch: -1.25, Alert: 40
+Roll: -0.71, Pitch: -2.50, Alert: 40
+Roll: -0.16, Pitch: -1.88, Alert: 40
+Roll: 1.25, Pitch: 7.83, Alert: 40
+Roll: -1.64, Pitch: -7.91, Alert: 40
+Roll: 1.00, Pitch: -8.62, Alert: 40
+Roll: -1.52, Pitch: 12.40, Alert: 40
+Roll: -1.52, Pitch: -6.95, Alert: 40
+Roll: 1.31, Pitch: -2.94, Alert: 40
+Roll: -1.07, Pitch: 11.12, Alert: 40
+Roll: -1.76, Pitch: -8.94, Alert: 40
+Roll: -2.11, Pitch: -3.40, Alert: 40
+Roll: -0.27, Pitch: -0.63, Alert: 40
+Roll: 5.26, Pitch: -0.43, Alert: 40
+Roll: 3.55, Pitch: -6.27, Alert: 40
+Roll: 4.13, Pitch: -0.92, Alert: 40
+Roll: 5.03, Pitch: -4.98, Alert: 40
+Roll: 1.28, Pitch: -4.75, Alert: 40
+Roll: 1.40, Pitch: -7.63, Alert: 40
+Roll: 1.55, Pitch: -3.02, Alert: 40
+Roll: 0.32, Pitch: -4.73, Alert: 40
+Roll: -2.06, Pitch: -6.60, Alert: 40
+Roll: -2.51, Pitch: -9.04, Alert: 40
+Roll: -0.96, Pitch: -9.00, Alert: 40
+Roll: -0.33, Pitch: -7.21, Alert: 40
+Roll: -1.90, Pitch: -8.14, Alert: 40
+Roll: -1.28, Pitch: -8.10, Alert: 40
+Roll: -1.10, Pitch: -9.57, Alert: 40
+Roll: 0.28, Pitch: -10.33, Alert: 40
+Roll: -1.15, Pitch: -12.45, Alert: 40
+Roll: -1.58, Pitch: -14.89, Alert: 40
+Roll: -2.77, Pitch: -13.65, Alert: 40
+Roll: -4.32, Pitch: -16.87, Alert: 40
+Roll: -5.62, Pitch: -16.18, Alert: 40
+Roll: -6.55, Pitch: -15.70, Alert: 40
+Roll: -5.50, Pitch: -17.72, Alert: 40
+Roll: -4.06, Pitch: -14.48, Alert: 40
+Roll: -4.88, Pitch: -15.79, Alert: 40
+Roll: -7.93, Pitch: -17.03, Alert: 40
+Roll: -8.16, Pitch: -16.30, Alert: 40
+Roll: -8.26, Pitch: -17.27, Alert: 40
+Roll: -8.33, Pitch: -18.29, Alert: 40
+Roll: -10.30, Pitch: -18.57, Alert: 40
+Roll: -9.27, Pitch: -16.69, Alert: 40
+Roll: -8.25, Pitch: -18.38, Alert: 40
+Roll: -8.19, Pitch: -18.39, Alert: 40
+Roll: -7.56, Pitch: -18.16, Alert: 40
+Roll: -7.64, Pitch: -20.27, Alert: 40
+Roll: -7.84, Pitch: -20.58, Alert: 40
+Roll: -7.12, Pitch: -20.26, Alert: 40
+Roll: -7.63, Pitch: -21.49, Alert: 40
+Roll: -8.89, Pitch: -22.08, Alert: 40
+Roll: -9.34, Pitch: -22.60, Alert: 40
+Roll: -9.45, Pitch: -22.98, Alert: 40
+Roll: -7.27, Pitch: -20.79, Alert: 40
+Roll: -7.45, Pitch: -19.35, Alert: 40
+Roll: -7.47, Pitch: -20.07, Alert: 40
+Roll: -4.06, Pitch: -18.37, Alert: 40
+Roll: -2.13, Pitch: -13.43, Alert: 40
+Roll: -2.59, Pitch: -14.95, Alert: 40
+Roll: -1.75, Pitch: -15.53, Alert: 40
+Roll: 5.49, Pitch: -13.84, Alert: 40
+Roll: -0.44, Pitch: -10.26, Alert: 40
+Roll: -0.73, Pitch: -11.55, Alert: 40
+Roll: 0.59, Pitch: -12.57, Alert: 40
+Roll: 0.59, Pitch: -9.93, Alert: 40
+Roll: -2.60, Pitch: -12.06, Alert: 40
+Roll: -2.72, Pitch: -11.18, Alert: 40
+Roll: -3.74, Pitch: -16.24, Alert: 40
+Roll: -4.38, Pitch: -18.38, Alert: 40
+Roll: -0.75, Pitch: -19.92, Alert: 40
+Roll: 1.56, Pitch: -14.57, Alert: 40
+Roll: 1.75, Pitch: -15.62, Alert: 40
+Roll: -1.98, Pitch: -18.38, Alert: 40
+Roll: -1.21, Pitch: -24.47, Alert: 40
+Roll: -7.03, Pitch: -24.06, Alert: 40
+Roll: -14.25, Pitch: -22.32, Alert: 40
+Roll: -11.59, Pitch: -22.68, Alert: 40
+Roll: -11.06, Pitch: -24.43, Alert: 40
+Roll: -10.89, Pitch: -24.28, Alert: 40
+Roll: -6.03, Pitch: -25.11, Alert: 40
+Roll: -10.13, Pitch: -24.48, Alert: 40
+Roll: -7.67, Pitch: -33.20, Alert: 40
+Roll: -7.83, Pitch: -35.85, Alert: 40
+Roll: -6.27, Pitch: -29.02, Alert: 40
+Roll: -3.80, Pitch: -30.95, Alert: 40
+Roll: 0.40, Pitch: -26.83, Alert: 40
+Roll: 3.30, Pitch: -23.22, Alert: 40
+Roll: 2.36, Pitch: -25.71, Alert: 40
+Roll: 0.69, Pitch: -22.28, Alert: 40
+Roll: -3.16, Pitch: -30.91, Alert: 40
+Roll: -11.20, Pitch: -29.62, Alert: 40
+Roll: -17.22, Pitch: -24.24, Alert: 40
+Roll: -15.46, Pitch: -25.60, Alert: 40
+Roll: -21.27, Pitch: -22.22, Alert: 40
+Roll: -23.16, Pitch: -17.07, Alert: 40
+Roll: -22.27, Pitch: -17.45, Alert: 40
+Roll: -23.27, Pitch: -15.43, Alert: 40
+Roll: -26.44, Pitch: -24.58, Alert: 40
+Roll: -22.98, Pitch: -33.48, Alert: 40
+Roll: -20.54, Pitch: -23.82, Alert: 40
+Roll: -14.73, Pitch: -12.29, Alert: 40
+Roll: -13.72, Pitch: -14.77, Alert: 40
+Roll: -12.39, Pitch: -16.56, Alert: 40
+Roll: -17.65, Pitch: -20.09, Alert: 40
+oRoll: -20.55, Pitch: -28.85, Alert: 40
+Roll: -41.45, Pitch: -24.45, Alert: 40, ALERT: Roll melebihi 40 derajat!
+Roll: -25.36, Pitch: -30.60, Alert: 35
+oRoll: -28.02, Pitch: -19.74, Alert: 35
+Roll: -30.08, Pitch: -23.85, Alert: 35
+oRoll: -21.07, Pitch: -19.12, Alert: 30
+Roll: -25.91, Pitch: -14.21, Alert: 30
+oRoll: -24.74, Pitch: -13.74, Alert: 25
+Roll: -21.35, Pitch: -17.10, Alert: 25
+Roll: -23.57, Pitch: -25.12, Alert: 20, ALERT: Roll melebihi 20 derajat!
+Roll: -13.53, Pitch: -22.96, Alert: 20
+Roll: -15.42, Pitch: -26.72, Alert: 20
+Roll: -20.77, Pitch: -17.14, Alert: 20, ALERT: Roll melebihi 20 derajat!
+Roll: -20.85, Pitch: -13.44, Alert: 20, ALERT: Roll melebihi 20 derajat!
+oRoll: -19.44, Pitch: -8.96, Alert: 20
+Roll: -20.71, Pitch: -8.93, Alert: 20, ALERT: Roll melebihi 20 derajat!
+Roll: -21.45, Pitch: -10.15, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -12.97, Pitch: -25.24, Alert: 15
+Roll: -12.49, Pitch: -24.41, Alert: 15
+Roll: -16.19, Pitch: -29.93, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -11.49, Pitch: -27.39, Alert: 15
+Roll: -19.06, Pitch: -24.60, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.31, Pitch: -12.70, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -20.30, Pitch: -9.41, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 6.18, Pitch: 5.82, Alert: 15
+Roll: -23.66, Pitch: -21.42, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -21.19, Pitch: -20.84, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -19.92, Pitch: -19.50, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -17.61, Pitch: -18.89, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.78, Pitch: -13.45, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -26.71, Pitch: -8.83, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -32.43, Pitch: -12.09, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -33.66, Pitch: -15.57, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -44.84, Pitch: -18.63, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -46.31, Pitch: -24.58, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -37.76, Pitch: -18.88, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -32.06, Pitch: -21.81, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -35.52, Pitch: -33.02, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -35.02, Pitch: -28.42, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -40.52, Pitch: -19.29, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -34.32, Pitch: -21.93, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -21.87, Pitch: -23.70, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -35.50, Pitch: -36.39, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.02, Pitch: -37.88, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -20.35, Pitch: -27.69, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.42, Pitch: -39.26, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -21.78, Pitch: -31.73, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -17.64, Pitch: -31.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -10.12, Pitch: -36.06, Alert: 15
+Roll: -8.85, Pitch: -33.30, Alert: 15
+Roll: -11.74, Pitch: -34.64, Alert: 15
+Roll: -4.71, Pitch: -33.69, Alert: 15
+Roll: -8.10, Pitch: -31.37, Alert: 15
+Roll: -13.56, Pitch: -29.03, Alert: 15
+Roll: -15.69, Pitch: -22.57, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -6.83, Pitch: -16.51, Alert: 15
+Roll: -6.57, Pitch: -15.13, Alert: 15
+Roll: -16.73, Pitch: -16.36, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -22.35, Pitch: -22.25, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.56, Pitch: -21.76, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -28.32, Pitch: -16.11, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -21.14, Pitch: -12.73, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -29.08, Pitch: -19.70, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -28.46, Pitch: -18.77, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.19, Pitch: -16.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -21.49, Pitch: -14.72, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -26.38, Pitch: -15.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -34.73, Pitch: -21.72, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -29.91, Pitch: -20.43, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -23.22, Pitch: -24.40, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -16.13, Pitch: -24.88, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -9.46, Pitch: -23.14, Alert: 15
+Roll: -5.15, Pitch: -22.35, Alert: 15
+Roll: -4.88, Pitch: -25.01, Alert: 15
+Roll: -4.93, Pitch: -23.44, Alert: 15
+Roll: -4.17, Pitch: -21.01, Alert: 15
+Roll: -7.47, Pitch: -21.30, Alert: 15
+Roll: -5.34, Pitch: -23.54, Alert: 15
+Roll: -11.93, Pitch: -26.96, Alert: 15
+Roll: -15.43, Pitch: -27.84, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -13.02, Pitch: -23.34, Alert: 15
+Roll: -11.18, Pitch: -19.10, Alert: 15
+Roll: -6.93, Pitch: -19.55, Alert: 15
+Roll: -7.35, Pitch: -14.48, Alert: 15
+Roll: -6.08, Pitch: -16.21, Alert: 15
+Roll: -4.52, Pitch: -11.81, Alert: 15
+Roll: 0.22, Pitch: -6.16, Alert: 15
+Roll: -1.44, Pitch: -4.16, Alert: 15
+Roll: 0.66, Pitch: 0.29, Alert: 15
+Roll: -8.71, Pitch: 1.02, Alert: 15
+Roll: -3.83, Pitch: 0.63, Alert: 15
+Roll: -11.71, Pitch: 1.49, Alert: 15
+Roll: -5.13, Pitch: 3.11, Alert: 15
+Roll: -8.70, Pitch: -0.50, Alert: 15
+Roll: -7.99, Pitch: -6.04, Alert: 15
+Roll: -13.56, Pitch: 3.22, Alert: 15
+Roll: -13.02, Pitch: 8.13, Alert: 15
+Roll: -14.55, Pitch: 7.57, Alert: 15
+Roll: -11.65, Pitch: 1.39, Alert: 15
+Roll: -5.47, Pitch: -0.00, Alert: 15
+Roll: -0.14, Pitch: 3.70, Alert: 15
+Roll: 4.72, Pitch: 4.68, Alert: 15
+Roll: 3.72, Pitch: 6.53, Alert: 15
+Roll: 2.86, Pitch: 5.76, Alert: 15
+Roll: 4.05, Pitch: 1.10, Alert: 15
+Roll: 0.22, Pitch: -2.12, Alert: 15
+Roll: -0.78, Pitch: 0.61, Alert: 15
+Roll: -3.51, Pitch: 2.34, Alert: 15
+Roll: -2.88, Pitch: 3.62, Alert: 15
+Roll: 0.51, Pitch: 5.13, Alert: 15
+Roll: 7.10, Pitch: 10.53, Alert: 15
+Roll: 6.43, Pitch: 6.89, Alert: 15
+Roll: -1.29, Pitch: 8.88, Alert: 15
+Roll: 0.80, Pitch: 5.57, Alert: 15
+Roll: 0.65, Pitch: 5.89, Alert: 15
+Roll: -0.52, Pitch: 5.55, Alert: 15
+Roll: 0.47, Pitch: -3.96, Alert: 15
+Roll: -7.83, Pitch: -0.81, Alert: 15
+Roll: -12.29, Pitch: 16.92, Alert: 15
+Roll: -3.81, Pitch: 11.76, Alert: 15
+Roll: -6.11, Pitch: 10.59, Alert: 15
+Roll: 2.93, Pitch: 10.30, Alert: 15
+Roll: -1.79, Pitch: 5.28, Alert: 15
+Roll: -5.39, Pitch: 5.68, Alert: 15
+Roll: -4.13, Pitch: 8.41, Alert: 15
+Roll: 3.21, Pitch: 10.22, Alert: 15
+Roll: 3.71, Pitch: 12.56, Alert: 15
+Roll: 2.29, Pitch: 13.65, Alert: 15
+Roll: -1.37, Pitch: 11.65, Alert: 15
+Roll: 3.07, Pitch: 16.85, Alert: 15
+Roll: 4.99, Pitch: 21.38, Alert: 15
+Roll: -4.91, Pitch: 16.12, Alert: 15
+Roll: -1.66, Pitch: 15.03, Alert: 15
+Roll: -3.12, Pitch: 13.26, Alert: 15
+Roll: -2.16, Pitch: 12.58, Alert: 15
+Roll: -7.24, Pitch: 12.99, Alert: 15
+Roll: -7.77, Pitch: 11.49, Alert: 15
+Roll: -6.01, Pitch: 11.02, Alert: 15
+Roll: -3.70, Pitch: 11.49, Alert: 15
+Roll: -1.60, Pitch: 11.33, Alert: 15
+Roll: -0.29, Pitch: 11.46, Alert: 15
+Roll: 1.18, Pitch: 11.69, Alert: 15
+Roll: -1.71, Pitch: 14.04, Alert: 15
+Roll: -0.74, Pitch: 17.12, Alert: 15
+Roll: -2.23, Pitch: 14.46, Alert: 15
+Roll: -2.18, Pitch: 13.54, Alert: 15
+Roll: -2.75, Pitch: 11.83, Alert: 15
+Roll: -3.45, Pitch: 13.57, Alert: 15
+Roll: -2.81, Pitch: 12.97, Alert: 15
+Roll: -3.45, Pitch: 11.83, Alert: 15
+Roll: -2.82, Pitch: 13.24, Alert: 15
+Roll: -2.30, Pitch: 12.04, Alert: 15
+Roll: -5.02, Pitch: 10.17, Alert: 15
+Roll: -4.51, Pitch: 13.01, Alert: 15
+Roll: -0.07, Pitch: 12.26, Alert: 15
+Roll: -1.94, Pitch: 10.87, Alert: 15
+Roll: -1.68, Pitch: 11.14, Alert: 15
+Roll: -0.07, Pitch: 8.82, Alert: 15
+Roll: -2.66, Pitch: 4.61, Alert: 15
+Roll: 0.20, Pitch: 5.34, Alert: 15
+Roll: -0.68, Pitch: 1.73, Alert: 15
+Roll: -1.32, Pitch: 5.22, Alert: 15
+Roll: -1.87, Pitch: 7.04, Alert: 15
+Roll: 1.31, Pitch: 5.40, Alert: 15
+Roll: 0.98, Pitch: 7.55, Alert: 15
+Roll: -1.11, Pitch: 8.11, Alert: 15
+Roll: -2.80, Pitch: 9.36, Alert: 15
+Roll: -4.28, Pitch: 9.54, Alert: 15
+Roll: -3.55, Pitch: 10.97, Alert: 15
+Roll: -2.31, Pitch: 10.32, Alert: 15
+Roll: -2.56, Pitch: 12.36, Alert: 15
+Roll: -3.02, Pitch: 12.29, Alert: 15
+Roll: -1.77, Pitch: 11.16, Alert: 15
+Roll: -1.24, Pitch: 11.22, Alert: 15
+Roll: -1.59, Pitch: 15.28, Alert: 15
+Roll: -4.09, Pitch: 15.08, Alert: 15
+Roll: -2.07, Pitch: 16.25, Alert: 15
+Roll: -3.55, Pitch: 18.04, Alert: 15
+Roll: -4.48, Pitch: 17.56, Alert: 15
+Roll: -2.09, Pitch: 19.18, Alert: 15
+Roll: -4.89, Pitch: 19.88, Alert: 15
+Roll: -3.79, Pitch: 20.63, Alert: 15
+Roll: -5.32, Pitch: 18.53, Alert: 15
+Roll: -3.42, Pitch: 19.52, Alert: 15
+Roll: -2.68, Pitch: 20.52, Alert: 15
+Roll: -0.48, Pitch: 18.40, Alert: 15
+Roll: -0.56, Pitch: 16.98, Alert: 15
+Roll: -2.10, Pitch: 18.45, Alert: 15
+Roll: -2.23, Pitch: 19.02, Alert: 15
+Roll: -0.22, Pitch: 16.91, Alert: 15
+Roll: 0.76, Pitch: 16.17, Alert: 15
+Roll: -0.01, Pitch: 16.88, Alert: 15
+Roll: -0.89, Pitch: 18.85, Alert: 15
+Roll: -0.80, Pitch: 18.94, Alert: 15
+Roll: 0.65, Pitch: 18.11, Alert: 15
+Roll: -0.84, Pitch: 16.08, Alert: 15
+Roll: -2.21, Pitch: 17.80, Alert: 15
+Roll: -3.54, Pitch: 17.74, Alert: 15
+Roll: -3.69, Pitch: 16.21, Alert: 15
+Roll: -3.50, Pitch: 15.28, Alert: 15
+Roll: -1.85, Pitch: 14.95, Alert: 15
+Roll: -2.85, Pitch: 16.17, Alert: 15
+Roll: -1.33, Pitch: 16.16, Alert: 15
+Roll: -1.85, Pitch: 16.29, Alert: 15
+Roll: -13.96, Pitch: 19.31, Alert: 15
+Roll: 3.09, Pitch: 22.15, Alert: 15
+Roll: 1.83, Pitch: 15.07, Alert: 15
+Roll: -30.18, Pitch: 25.55, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -30.62, Pitch: 11.89, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -12.18, Pitch: -5.60, Alert: 15
+Roll: -17.43, Pitch: 3.74, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 87.59, Pitch: -55.92, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -27.15, Pitch: 49.36, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 126.70, Pitch: -72.11, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -8.63, Pitch: 44.57, Alert: 15
+Roll: 12.15, Pitch: -78.04, Alert: 15
+Roll: 12.32, Pitch: 52.54, Alert: 15
+Roll: -14.59, Pitch: -70.21, Alert: 15
+Roll: 12.91, Pitch: 50.04, Alert: 15
+Roll: -1.07, Pitch: -73.12, Alert: 15
+Roll: 15.40, Pitch: 54.29, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -11.73, Pitch: -73.26, Alert: 15
+Roll: 9.61, Pitch: 59.68, Alert: 15
+Roll: -160.88, Pitch: -79.20, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -4.82, Pitch: 49.96, Alert: 15
+Roll: -6.71, Pitch: -41.88, Alert: 15
+Roll: 12.69, Pitch: 44.21, Alert: 15
+Roll: -145.89, Pitch: -58.44, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -16.01, Pitch: 44.87, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 139.93, Pitch: -67.10, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -0.37, Pitch: 44.92, Alert: 15
+Roll: 94.11, Pitch: -78.20, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 7.32, Pitch: 29.07, Alert: 15
+Roll: 39.72, Pitch: 14.29, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -125.48, Pitch: -50.67, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -0.45, Pitch: 44.88, Alert: 15
+Roll: -179.30, Pitch: -61.98, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -26.03, Pitch: 47.70, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 168.22, Pitch: -65.94, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -28.41, Pitch: 49.33, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 164.58, Pitch: -62.10, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -7.36, Pitch: 44.91, Alert: 15
+Roll: 37.34, Pitch: 24.04, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -35.74, Pitch: -50.50, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 20.17, Pitch: 54.27, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -64.62, Pitch: 47.43, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -175.27, Pitch: -44.38, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -29.98, Pitch: 52.52, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -157.89, Pitch: -78.69, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 13.71, Pitch: 44.08, Alert: 15
+Roll: -21.41, Pitch: -7.42, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -26.37, Pitch: -80.72, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 7.47, Pitch: 44.67, Alert: 15
+Roll: -19.37, Pitch: 34.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -28.16, Pitch: -31.32, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.38, Pitch: -69.32, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 18.34, Pitch: 43.43, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -12.14, Pitch: 23.42, Alert: 15
+Roll: 26.95, Pitch: -85.22, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.17, Pitch: 44.55, Alert: 15
+Roll: -103.31, Pitch: -78.52, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 4.82, Pitch: 44.80, Alert: 15
+Roll: -160.83, Pitch: -50.60, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 157.80, Pitch: -1.66, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.71, Pitch: 66.24, Alert: 15
+Roll: 179.66, Pitch: -44.57, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -18.46, Pitch: 50.15, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 167.50, Pitch: -46.10, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -7.54, Pitch: 44.65, Alert: 15
+Roll: -72.02, Pitch: -77.04, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 110.21, Pitch: -80.78, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 3.89, Pitch: 44.83, Alert: 15
+Roll: -54.70, Pitch: -44.39, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -57.98, Pitch: -82.66, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 14.38, Pitch: 43.67, Alert: 15
+Roll: 9.70, Pitch: 44.53, Alert: 15
+Roll: -8.60, Pitch: 24.79, Alert: 15
+Roll: 169.87, Pitch: -73.56, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.75, Pitch: 8.33, Alert: 15
+Roll: -3.37, Pitch: 44.86, Alert: 15
+Roll: -142.94, Pitch: -79.63, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 160.22, Pitch: -73.47, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 8.45, Pitch: 44.59, Alert: 15
+Roll: -7.40, Pitch: 30.70, Alert: 15
+Roll: 173.19, Pitch: -76.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 8.69, Pitch: 47.93, Alert: 15
+Roll: -6.58, Pitch: 44.71, Alert: 15
+Roll: -162.65, Pitch: -76.59, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 146.13, Pitch: -74.59, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -5.57, Pitch: 44.77, Alert: 15
+Roll: -63.39, Pitch: -51.74, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -99.17, Pitch: -84.48, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 16.05, Pitch: 43.77, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 2.28, Pitch: 44.91, Alert: 15
+Roll: -85.14, Pitch: -75.95, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 171.26, Pitch: -65.26, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -1.63, Pitch: 44.89, Alert: 15
+Roll: -31.40, Pitch: 71.63, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -157.73, Pitch: -87.78, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 173.12, Pitch: -75.40, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 0.11, Pitch: 24.84, Alert: 15
+Roll: 16.59, Pitch: 43.72, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -1.79, Pitch: 44.90, Alert: 15
+Roll: -1.54, Pitch: 45.88, Alert: 15
+Roll: -167.23, Pitch: -57.53, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 164.16, Pitch: -57.03, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 166.33, Pitch: -65.49, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 3.16, Pitch: 36.44, Alert: 15
+Roll: 12.87, Pitch: 44.21, Alert: 15
+Roll: 5.81, Pitch: 44.78, Alert: 15
+Roll: 8.66, Pitch: 44.62, Alert: 15
+Roll: -43.64, Pitch: -26.92, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 121.09, Pitch: -78.35, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 15.54, Pitch: 43.15, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -6.00, Pitch: 44.72, Alert: 15
+Roll: -15.66, Pitch: 31.28, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 167.59, Pitch: -64.38, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 24.63, Pitch: 18.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -18.78, Pitch: 43.98, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -163.53, Pitch: -56.21, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -172.83, Pitch: -72.35, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 15.94, Pitch: 43.80, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -6.59, Pitch: 44.72, Alert: 15
+Roll: -15.33, Pitch: -6.89, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.01, Pitch: -78.74, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 48.21, Pitch: -81.45, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 15.66, Pitch: 43.81, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 13.71, Pitch: 44.11, Alert: 15
+Roll: -135.10, Pitch: -45.94, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 3.32, Pitch: -79.72, Alert: 15
+Roll: -6.23, Pitch: -9.19, Alert: 15
+Roll: 13.94, Pitch: 44.07, Alert: 15
+Roll: -1.56, Pitch: 45.68, Alert: 15
+Roll: -94.56, Pitch: -79.66, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -121.60, Pitch: -83.81, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -1.12, Pitch: 44.89, Alert: 15
+Roll: -22.09, Pitch: 60.88, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 174.53, Pitch: -71.45, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -179.76, Pitch: -76.81, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 1.45, Pitch: 44.89, Alert: 15
+Roll: -15.19, Pitch: 56.49, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 154.69, Pitch: -71.51, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 178.96, Pitch: -80.33, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 6.53, Pitch: 44.73, Alert: 15
+Roll: 2.12, Pitch: 44.91, Alert: 15
+Roll: -151.15, Pitch: -73.86, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 131.19, Pitch: -77.02, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -6.20, Pitch: -82.31, Alert: 15
+Roll: 1.20, Pitch: 44.90, Alert: 15
+Roll: 6.15, Pitch: 44.78, Alert: 15
+Roll: -82.26, Pitch: -70.37, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 140.34, Pitch: -76.25, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 16.62, Pitch: 43.69, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.26, Pitch: 44.58, Alert: 15
+Roll: -62.69, Pitch: -58.40, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 5.32, Pitch: 44.79, Alert: 15
+Roll: -26.12, Pitch: -61.37, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -17.68, Pitch: -55.20, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -84.13, Pitch: -56.15, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 17.79, Pitch: 27.11, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.93, Pitch: 36.02, Alert: 15
+Roll: -65.97, Pitch: 55.19, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -170.63, Pitch: -8.25, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -3.34, Pitch: 9.54, Alert: 15
+Roll: -174.59, Pitch: -3.12, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.03, Pitch: -6.50, Alert: 15
+Roll: -73.96, Pitch: 11.06, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 136.82, Pitch: -17.06, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 14.09, Pitch: -8.50, Alert: 15
+Roll: -57.08, Pitch: 20.41, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 163.57, Pitch: 3.96, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 20.22, Pitch: -7.67, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -34.13, Pitch: 20.38, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 129.83, Pitch: 59.08, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 22.17, Pitch: -2.71, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -41.89, Pitch: 17.28, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 99.90, Pitch: -0.11, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.89, Pitch: -0.86, Alert: 15
+Roll: -71.10, Pitch: 17.02, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 27.63, Pitch: -1.50, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -37.13, Pitch: 14.56, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 55.60, Pitch: -0.35, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -5.04, Pitch: 3.69, Alert: 15
+Roll: -97.71, Pitch: 23.19, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 26.37, Pitch: -3.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -47.28, Pitch: 17.91, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 59.86, Pitch: -1.41, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -3.95, Pitch: 6.23, Alert: 15
+Roll: -108.76, Pitch: 17.20, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 21.67, Pitch: -1.96, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -50.53, Pitch: 11.84, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 62.02, Pitch: -1.24, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -1.52, Pitch: 2.33, Alert: 15
+Roll: -107.68, Pitch: 11.86, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 37.96, Pitch: -6.82, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -23.33, Pitch: 15.62, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 176.98, Pitch: 26.86, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 15.10, Pitch: -11.64, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -100.40, Pitch: -8.91, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 24.02, Pitch: -3.64, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -44.01, Pitch: 14.35, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 49.90, Pitch: -8.58, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -16.57, Pitch: 11.68, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 174.11, Pitch: 9.09, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 4.55, Pitch: 2.18, Alert: 15
+Roll: -105.50, Pitch: 29.39, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 16.78, Pitch: -0.42, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -55.96, Pitch: 5.05, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 37.16, Pitch: -7.08, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -34.04, Pitch: 16.33, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 71.42, Pitch: -2.67, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -3.39, Pitch: 9.16, Alert: 15
+Roll: -82.17, Pitch: 5.15, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 29.89, Pitch: -6.47, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -37.59, Pitch: 18.05, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 112.45, Pitch: -1.98, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 6.41, Pitch: -0.90, Alert: 15
+Roll: -94.28, Pitch: 3.78, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 30.77, Pitch: -5.41, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -28.05, Pitch: 20.03, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -164.57, Pitch: 21.60, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 15.83, Pitch: -2.11, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -45.47, Pitch: 16.92, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 154.25, Pitch: -1.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.30, Pitch: -3.28, Alert: 15
+Roll: -55.78, Pitch: 12.47, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 49.54, Pitch: -21.97, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -3.96, Pitch: 4.32, Alert: 15
+Roll: -91.74, Pitch: 33.32, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 36.26, Pitch: 0.36, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.26, Pitch: 4.67, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -160.51, Pitch: 23.32, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 32.86, Pitch: 0.10, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -25.26, Pitch: 6.26, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -127.69, Pitch: 20.73, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 58.03, Pitch: 5.24, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 23.59, Pitch: 0.62, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -10.76, Pitch: 10.16, Alert: 15
+Roll: -83.65, Pitch: 26.62, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -121.22, Pitch: 18.49, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 78.33, Pitch: 28.86, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 53.74, Pitch: -9.20, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.35, Pitch: -0.43, Alert: 15
+Roll: -38.24, Pitch: 28.16, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -177.44, Pitch: 3.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 26.32, Pitch: 23.69, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.23, Pitch: 44.39, Alert: 15
+Roll: -138.17, Pitch: -73.27, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 7.70, Pitch: 44.67, Alert: 15
+Roll: -72.52, Pitch: -73.71, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 16.86, Pitch: 43.65, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -55.66, Pitch: -47.96, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 14.63, Pitch: 30.72, Alert: 15
+Roll: 1.70, Pitch: 40.17, Alert: 15
+Roll: 157.83, Pitch: -73.78, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 13.34, Pitch: 44.11, Alert: 15
+Roll: -10.13, Pitch: 52.82, Alert: 15
+Roll: 173.66, Pitch: -61.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.12, Pitch: 44.55, Alert: 15
+Roll: -59.09, Pitch: 49.17, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 178.19, Pitch: -73.54, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.01, Pitch: 44.48, Alert: 15
+Roll: -133.36, Pitch: -53.06, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 162.00, Pitch: -63.60, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 1.15, Pitch: 44.90, Alert: 15
+Roll: -110.43, Pitch: -67.80, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 14.48, Pitch: 32.46, Alert: 15
+Roll: -134.02, Pitch: -84.14, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 0.04, Pitch: 11.04, Alert: 15
+Roll: -7.58, Pitch: 9.36, Alert: 15
+Roll: -6.14, Pitch: -3.35, Alert: 15
+Roll: -152.92, Pitch: -48.69, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 0.97, Pitch: 34.81, Alert: 15
+Roll: 6.46, Pitch: 4.39, Alert: 15
+Roll: -6.23, Pitch: -43.21, Alert: 15
+Roll: 10.34, Pitch: 38.10, Alert: 15
+Roll: -5.34, Pitch: 0.65, Alert: 15
+Roll: 160.65, Pitch: -40.56, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -5.88, Pitch: -8.45, Alert: 15
+Roll: -173.32, Pitch: -39.44, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.73, Pitch: 14.54, Alert: 15
+Roll: -169.42, Pitch: -23.92, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 1.22, Pitch: 44.92, Alert: 15
+Roll: -130.78, Pitch: 23.23, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 6.94, Pitch: 40.34, Alert: 15
+Roll: -65.38, Pitch: 0.25, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 14.62, Pitch: 37.55, Alert: 15
+Roll: -3.83, Pitch: -3.55, Alert: 15
+Roll: 39.93, Pitch: 36.58, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 0.36, Pitch: -0.89, Alert: 15
+Roll: -176.44, Pitch: -45.87, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 6.58, Pitch: 2.75, Alert: 15
+Roll: -166.35, Pitch: -43.62, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 9.32, Pitch: 2.88, Alert: 15
+Roll: -165.13, Pitch: -44.53, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.92, Pitch: 6.71, Alert: 15
+Roll: -142.80, Pitch: -54.02, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 4.45, Pitch: 37.27, Alert: 15
+Roll: 1.04, Pitch: 6.47, Alert: 15
+Roll: -59.03, Pitch: -84.55, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 7.80, Pitch: 27.67, Alert: 15
+Roll: -7.97, Pitch: 4.90, Alert: 15
+Roll: -144.51, Pitch: -56.31, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 3.98, Pitch: 23.88, Alert: 15
+Roll: 11.69, Pitch: 11.72, Alert: 15
+Roll: 1.29, Pitch: -0.30, Alert: 15
+Roll: 3.69, Pitch: 39.77, Alert: 15
+Roll: -9.86, Pitch: 6.59, Alert: 15
+Roll: -2.77, Pitch: 42.74, Alert: 15
+Roll: 5.37, Pitch: 2.00, Alert: 15
+Roll: -1.74, Pitch: 3.75, Alert: 15
+Roll: 1.26, Pitch: 41.20, Alert: 15
+Roll: 1.0Roll: 162.46, Pitch: 33.40, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 50.05, Pitch: -13.67, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.58, Pitch: 34.33, Alert: 15
+Roll: 39.77, Pitch: -47.90, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -53.09, Pitch: -64.96, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -5.94, Pitch: 9.96, Alert: 15
+Roll: 7.13, Pitch: 44.70, Alert: 15
+Roll: 10.69, Pitch: 35.35, Alert: 15
+Roll: 61.33, Pitch: -25.51, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 146.89, Pitch: -53.89, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 166.98, Pitch: -51.85, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 174.00, Pitch: -55.99, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -168.12, Pitch: -53.67, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -69.98, Pitch: 21.82, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -7.99, Pitch: 4.82, Alert: 15
+Roll: 0.91, Pitch: 44.91, Alert: 15
+Roll: 28.69, Pitch: 11.01, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 176.80, Pitch: -51.49, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -68.62, Pitch: 29.83, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -10.30, Pitch: 48.80, Alert: 15
+Roll: 151.17, Pitch: -56.01, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -70.68, Pitch: 17.63, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.22, Pitch: 44.44, Alert: 15
+Roll: -105.65, Pitch: -78.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 2.95, Pitch: 44.86, Alert: 15
+Roll: -114.64, Pitch: -76.82, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 15.09, Pitch: 30.07, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -6.39, Pitch: 22.91, Alert: 15
+Roll: -80.68, Pitch: -79.02, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 31.12, Pitch: -49.16, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 10.19, Pitch: 44.47, Alert: 15
+Roll: -31.68, Pitch: 19.13, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 165.11, Pitch: -61.53, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 17.65, Pitch: 43.52, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -69.46, Pitch: 6.34, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 162.63, Pitch: -56.48, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.50, Pitch: 41.60, Alert: 15
+Roll: 12.46, Pitch: 44.27, Alert: 15
+Roll: 3.74, Pitch: 37.58, Alert: 15
+Roll: -22.98, Pitch: 12.82, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -37.19, Pitch: -55.60, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -85.75, Pitch: -75.23, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 18.21, Pitch: 34.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -168.22, Pitch: -55.25, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 7.69, Pitch: 15.58, Alert: 15
+Roll: -69.93, Pitch: 3.44, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -23.11, Pitch: -9.52, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -17.51, Pitch: -6.65, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 5.23, Pitch: -5.80, Alert: 15
+Roll: 6.86, Pitch: -4.44, Alert: 15
+Roll: -5.58, Pitch: -16.67, Alert: 15
+Roll: -3.91, Pitch: -10.02, Alert: 15
+Roll: 8.09, Pitch: -21.63, Alert: 15
+Roll: 6.24, Pitch: -12.33, Alert: 15
+Roll: 16.30, Pitch: -20.61, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.00, Pitch: -17.08, Alert: 15
+Roll: 9.15, Pitch: -64.63, Alert: 15
+Roll: -54.27, Pitch: -67.09, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -2.26, Pitch: -10.46, Alert: 15
+Roll: -7.49, Pitch: -2.39, Alert: 15
+Roll: -2.98, Pitch: -11.79, Alert: 15
+Roll: 0.10, Pitch: -31.32, Alert: 15
+Roll: 173.84, Pitch: -83.69, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 3.26, Pitch: -24.93, Alert: 15
+Roll: 3.15, Pitch: -13.27, Alert: 15
+Roll: 2.40, Pitch: -14.95, Alert: 15
+Roll: 7.19, Pitch: -16.20, Alert: 15
+Roll: -23.11, Pitch: -25.13, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -20.40, Pitch: -15.40, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -54.26, Pitch: -5.88, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -9.07, Pitch: -23.76, Alert: 15
+Roll: -2.24, Pitch: -41.05, Alert: 15
+Roll: -3.12, Pitch: 26.52, Alert: 15
+Roll: -82.97, Pitch: -40.90, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -0.24, Pitch: -0.65, Alert: 15
+Roll: -24.13, Pitch: -40.88, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -6.68, Pitch: -0.48, Alert: 15
+Roll: -15.55, Pitch: 12.12, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 5.08, Pitch: -50.43, Alert: 15
+Roll: -9.69, Pitch: 30.63, Alert: 15
+Roll: 7.99, Pitch: -15.75, Alert: 15
+Roll: -3.04, Pitch: 32.43, Alert: 15
+Roll: -167.16, Pitch: -35.00, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.60, Pitch: 1.31, Alert: 15
+Roll: -177.95, Pitch: -43.59, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 1.66, Pitch: -7.68, Alert: 15
+Roll: -9.37, Pitch: 37.34, Alert: 15
+Roll: -118.60, Pitch: -14.80, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 2.50, Pitch: 3.49, Alert: 15
+Roll: 11.47, Pitch: 16.03, Alert: 15
+Roll: -14.08, Pitch: 18.96, Alert: 15
+Roll: -78.31, Pitch: 17.49, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 178.32, Pitch: -48.36, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 16.34, Pitch: -22.46, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 11.51, Pitch: -14.31, Alert: 15
+Roll: -33.27, Pitch: -26.03, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 23.14, Pitch: -21.17, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -27.51, Pitch: -25.37, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 21.98, Pitch: -6.83, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 46.95, Pitch: -11.53, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: 0.58, Pitch: -22.28, Alert: 15
+Roll: 5.80, Pitch: -6.70, Alert: 15
+Roll: 5.85, Pitch: -26.65, Alert: 15
+Roll: -3.14, Pitch: -18.38, Alert: 15
+Roll: 3.00, Pitch: -17.61, Alert: 15
+Roll: -5.02, Pitch: -7.71, Alert: 15
+Roll: -3.32, Pitch: -1.46, Alert: 15
+Roll: -5.94, Pitch: -3.24, Alert: 15
+Roll: 0.33, Pitch: -6.44, Alert: 15
+Roll: -3.65, Pitch: -4.71, Alert: 15
+Roll: -12.14, Pitch: -14.29, Alert: 15
+Roll: -15.34, Pitch: -20.83, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -17.59, Pitch: -17.65, Alert: 15, ALERT: Roll melebihi 15 derajat!
+Roll: -4.56, Pitch: -10.04, Alert: 15
+Roll: -2.62, Pitch: -0.87, Alert: 15
+Roll: -2.70, Pitch: -4.32, Alert: 15
+Roll: -1.13, Pitch: -7.98, Alert: 15
+Roll: 0.18, Pitch: -7.53, Alert: 15
+Roll: -2.55, Pitch: -5.15, Alert: 15
+Roll: -1.64, Pitch: -5.99, Alert: 15
+Roll: -4.32, Pitch: -3.67, Alert: 15
+Roll: -3.04, Pitch: 1.45, Alert: 15
+Roll: -6.03, Pitch: 0.08, Alert: 15
+Roll: -0.55, Pitch: 0.78, Alert: 15
+Roll: -1.81, Pitch: 1.67, Alert: 15
+Roll: 3.00, Pitch: -1.74, Alert: 15
+Roll: 5.14, Pitch: -4.54, Alert: 15
+Roll: 6.76, Pitch: -5.23, Alert: 15
+Roll: 3.83, Pitch: -3.53, Alert: 15
+Roll: 4.03, Pitch: -2.56, Alert: 15
+Roll: 2.00, Pitch: -8.24, Alert: 15
+Roll: -1.43, Pitch: -10.44, Alert: 15
+Roll: -4.88, Pitch: -3.51, Alert: 15
+Roll: -7.58, Pitch: 0.32, Alert: 15
+Roll: -8.78, Pitch: 0.65, Alert: 15
+Roll: -2.81, Pitch: -3.45, Alert: 15
+Roll: -2.25, Pitch: -2.82, Alert: 15
+Roll: -2.38, Pitch: -6.49, Alert: 15
+Roll: -2.99, Pitch: -4.77, Alert: 15
+Roll: -2.31, Pitch: -3.07, Alert: 15
+Roll: -4.98, Pitch: -1.79, Alert: 15
+Roll: -6.53, Pitch: 2.08, Alert: 15
+Roll: -10.13, Pitch: -6.70, Alert: 15
